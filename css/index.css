@@ -130,8 +130,8 @@ h1{
 /*estrutura de conteudo */
 #serviços {
     background: white;
-    padding-top: 20px;
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 #serviços, h2, h3 {
@@ -143,8 +143,8 @@ h1{
 }
 
 #recursos {
-    padding-top: 20px;
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 #recursos, h3 {
@@ -164,8 +164,8 @@ h1{
 }
 
 .rotacionar {
-    transform: rotate(30deg);
-    padding-left: 80px;
     -ms-transform: rotate(30deg);
     -webkit-transform: rotate(30deg);
+    padding-left: 80px;
+    transform: rotate(30deg);
 }    
